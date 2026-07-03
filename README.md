@@ -1,14 +1,10 @@
-# Hi 👋 I'm Thamsanqa Emmanuel
+<h1 align="center">
+Hi 👋 I'm Thamsanqa Emmanuel
+</h1>
 
-💻 Full Stack Web Developer
-
-🎓 Software Developer
-
-🌍 South Africa
-
-🚀 Passionate about building modern websites and web applications.
-
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;Node.js+Developer;Python+Developer;Always+Learning+New+Things!" />
+</p>
 
 ## 🚀 Tech Stack
 
