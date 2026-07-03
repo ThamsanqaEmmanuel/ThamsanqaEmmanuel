@@ -8,40 +8,27 @@ Hi 👋 I'm Thamsanqa Emmanuel
 
 ## 🚀 Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Python
-- Git
-- GitHub
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode" />
 
-## 📚 Currently Learning
+</p>
 
-- React
-- Next.js
-- TypeScript
-- Cloud Deployment
+## 📊 GitHub Stats
 
----
+<p align="center">
 
-## 📫 Reach Me
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThamsanqaEmmanuel&show_icons=true&theme=tokyonight"/>
 
-Email:
-your@email.com
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamsanqaEmmanuel&layout=compact&theme=tokyonight"/>
 
-LinkedIn:
-(Add later)
+</p>
 
-Portfolio:
-(Add later)
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ThamsanqaEmmanuel&theme=tokyonight"/>
+
+</p>
 
 ## 📊 GitHub Stats
 
@@ -51,19 +38,32 @@ Portfolio:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamsanqaEmmanuel&layout=compact&theme=tokyonight)
 
-# 👋 Hi, I'm Thamsanqa Emmanuel
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Node.js+Developer;Python+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
-
-
-## 💻 Languages & Tools
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode" />
+<img src="https://komarev.com/ghpvc/?username=ThamsanqaEmmanuel&label=Profile+Views&color=blueviolet&style=flat"/>
 
 </p>
 
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ThamsanqaEmmanuel&theme=discord"/>
+
+</p>
+
+## 🌍 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
 
 ![](https://komarev.com/ghpvc/?username=ThamsanqaEmmanuel&color=blueviolet)
 
@@ -71,26 +71,48 @@ Portfolio:
 
 Customize your pins
 
-Week1-Python-Assignment
+## 🚀 Featured Projects
 
-PLP Software Projects
+⭐ RDP Management System
 
-👋 Animated Header
+🏠 Real Estate Website
 
-🙋 About Me
+💰 Budget Tracker
 
-💻 Tech Stack Icons
+💇 Ayanda's Beauty Salon Website
 
-🔥 GitHub Stats
+🌐 Portfolio Website
 
-📈 Contribution Graph
+🤖 Fundis & Freelancers Booking Bot
+
+<p align="center">
+
+<img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</p>
+
+═══════════════════════════════════════
+
+👋 Animated Typing
+
+💜 Purple Theme
+
+👨🏾‍💻 Coding GIF
+
+🚀 Tech Icons
+
+📊 GitHub Stats
+
+🔥 Contribution Streak
+
+🐍 Snake Animation
 
 🏆 GitHub Trophies
 
-🚀 Featured Projects
+💼 Featured Projects
 
-🌐 Portfolio Link
+📬 Contact Section
 
-📧 Contact Info
+☕ Fun Quote
 
-✨ Animated Footer
+═══════════════════════════════════════
