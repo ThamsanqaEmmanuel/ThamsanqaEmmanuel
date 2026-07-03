@@ -1,62 +1,96 @@
-<h1 align="center">Hi 👋 I'm Thamsanqa Emmanuel</h1>
+<h1 align="center">
+Hi 👋 I'm Thamsanqa Emmanuel
+</h1>
+
+<h3 align="center">
+Software Engineer | Full-Stack Developer | ICT Support Professional
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;Node.js+Developer;Python+Developer;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Python+Developer;ICT+Support+Professional;Always+Learning+Something+New!" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThamsanqaEmmanuel&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
+## 💡 About Me
 
----
+I'm a passionate Software Engineer and ICT Support Professional from South Africa 🇿🇦 with over four years of experience in technical support and modern web development.
+
+I enjoy building practical solutions that solve real business problems—from business websites to full-stack applications. My experience spans enterprise IT support, software development, and cloud-ready web technologies.
+
+Currently focused on building scalable React and Node.js applications while continuously improving my software engineering skills.
+
+## 📊 GitHub Stats
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode" />
+
 </p>
 
+## 🚀 Featured Projects
+
+### 🏡 RDP Management System
+A full-stack application for managing RDP applications using React, Node.js, Express and MongoDB.
+
 ---
+
+### 💇 Ayanda's Beauty Salon
+A modern business website showcasing salon services and branding.
+
+---
+
+### 💄 Lizzy Beauty Website
+A responsive and elegant beauty website with modern UI and smooth user experience.
+
+🔗 Live Demo:
+https://thamsanqaemmanuel.github.io/Lizzy_Website/
+
+---
+
+### 🤝 Fundis & Freelancers Booking Platform
+A hackathon project connecting customers with trusted local service providers.
+
+🔗 Live Demo:
+https://thamsanqaemmanuel.github.io/Hackathon/
+
+---
+
+### 💰 Budget Tracker
+A React application for tracking expenses and monthly budgets.
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThamsanqaEmmanuel&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamsanqaEmmanuel&layout=compact&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThamsanqaEmmanuel&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamsanqaEmmanuel&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThamsanqaEmmanuel&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ThamsanqaEmmanuel&theme=tokyonight"/>
+
 </p>
+
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThamsanqaEmmanuel&theme=tokyonight&row=1&column=7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ThamsanqaEmmanuel&theme=discord"/>
+
 </p>
 
----
+## 📜 Certifications
 
-## 🌍 Connect With Me
+🎓 Bachelor of Science in Information Technology
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+🏆 Power Learn Project – Full-Stack Software Development
 
----
+🏆 A+ Certification
 
-## 🚀 Featured Projects
+## 💬 Favorite Quote
 
-- ⭐ **[RDP Management System](YOUR_REPO_LINK)**
-- 🏠 **[Real Estate Website](YOUR_REPO_LINK)**
-- 💰 **[Budget Tracker](YOUR_REPO_LINK)**
-- 💇 **[Ayanda's Beauty Salon Website](YOUR_REPO_LINK)**
-- 🌐 **[Portfolio Website](YOUR_REPO_LINK)**
-- 🤖 **[Fundis & Freelancers Booking Bot](YOUR_REPO_LINK)**
-
-<p align="center">
-  <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
+> "First, solve the problem. Then, write the code." – John Johnson
